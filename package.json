@@ -1,0 +1,30 @@
+{
+  "name": "abhishek-joseph-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio of Abhishek Joseph — Website Developer × Digital Marketer",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fontsource-variable/fraunces": "^5.3.0",
+    "@fontsource-variable/inter": "^5.3.0",
+    "@fontsource/space-mono": "^5.3.0",
+    "@vercel/analytics": "^2.0.1",
+    "next": "^16.3.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "resend": "^4.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5"
+  }
+}
